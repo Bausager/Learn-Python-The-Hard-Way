@@ -38,4 +38,16 @@ print("Is it less or equal?", 5<=-2)
 ##Study Drill
 
 
-print(3%5)
+print(3+2+1-5+4%2-1/4+6)
+
+
+
+
+
+
+
+
+
+
+
+
