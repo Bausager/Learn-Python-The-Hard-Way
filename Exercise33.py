@@ -3,7 +3,7 @@ numbers = []
 
 def list(x):
 	for i in range(1, x):
-		
+		a
 		print(f"At the top i is {i}")
 		numbers.append(i)
 
