@@ -1,4 +1,4 @@
-class Other(object):
+class Other:
 
 	def override(self):
 		print("OTHER override()")
@@ -10,7 +10,7 @@ class Other(object):
 		print("OTHER altered()")
 
 
-class Child(object):
+class Child:
 
 	def __init__(self):
 		self.other = Other()
